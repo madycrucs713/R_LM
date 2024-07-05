@@ -1,1 +1,1 @@
-# R_LM
+# Linear Modeling using R
